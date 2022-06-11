@@ -80,4 +80,4 @@ namespace ConsoleApp2
 ![Screenshot (230)](https://user-images.githubusercontent.com/75234807/173194563-f13bc9cd-63e6-4143-ba7d-3d0f341c0bd0.png)
 
 ## Result:
-C# program to develop a bank application using interface is implemented successfully.
+Thus C# program to develop a bank application using interface is implemented successfully.
